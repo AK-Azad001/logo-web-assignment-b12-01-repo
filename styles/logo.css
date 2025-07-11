@@ -65,5 +65,28 @@
     width: 1140px;
     height: 328px;
     margin: 0 auto;
+    margin-top: 116px;
 
+}
+.action-section-img{
+    width: 403px;
+    
+}
+.action-section-des{
+    width: 517px;
+    height: 203px;
+    gap: 23px;
+    text-align:left;
+}
+.action-sec-des-title{
+    font-size: 42px;
+    font-weight: 700px;
+    color: #252432;
+    margin: 23px 0;
+}
+.action-sec-des-subtitle{
+    font-size: 24px;
+    font-weight: 400px;
+    color: rgba(37, 36, 50, 0.5);
+    margin: 23px 0;
 }
