@@ -231,6 +231,27 @@
     
 }
 
+/* focus-better-section styles */
+.focus-better-section{
+    width: 1140px;
+    height: 696px;
+    padding: 71px 150px;
+    gap: 20px;
+    border: 1px solid #000000;
+    border-radius: 14px;
+    text-align: center;
+    background-color: #FFFFFF;
+}
+.focus-better-sec-content h1{
+    font-size: 50px;
+    font-weight: 700px;
+    color: #000000;
+}
+.focus-better-sec-content h6{
+    font-size:16px ;
+    font-weight: 400px;
+    color:rgba(0, 0, 0, 0.5) ;
+}
 
 
 
