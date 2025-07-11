@@ -58,4 +58,12 @@
     border: none;
 }
 /* action-section styles */
+.action-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1140px;
+    height: 328px;
+    margin: 0 auto;
 
+}
