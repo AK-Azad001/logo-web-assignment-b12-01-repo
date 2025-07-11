@@ -287,7 +287,9 @@
      color: #000000;
      gap: 8px;
 }
-
+.secondary-btn{
+    padding: 10px 200px;
+}
 /* footer styles */
 .footer{
     background-color:rgba(255, 255, 255, 1);
@@ -323,9 +325,7 @@
     text-align: center;
 }
 
-.secondary-btn{
-    padding: 10px 200px;
-}
+
 
 .nav-section ul{
     max-width:400px;
